@@ -219,7 +219,7 @@ body{
 	color:#151f27;
 	padding-right:18px;
 	margin-right:12px;
-	background:url(images/br-bg.png) no-repeat right center;
+	/*background:url(images/br-bg.png) no-repeat right center;*/
 }
 .breadcrumb li:last-child{
 	background:none;
@@ -575,7 +575,7 @@ body{
 	float:left;
 	height:auto;
 	padding:100px 143px 100px 143px;
-	/*background:url(images/tab-bg.jpg) no-repeat center center;*/
+	background:url(https://github.com/alexyaoyang/ebay-resources/raw/master/images/tab-bg.jpg) no-repeat center center;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
 	background-size:cover;
@@ -736,10 +736,10 @@ body{
 	transform:scale(1.15);
 }
 .featured-block ul li:hover .product-thumb img{
-	-webkit-transform:rotateY(360deg);
-	-moz-transform:rotateY(360deg);
-	-ms-transform:rotateY(360deg);
-	transform:rotateY(360deg);
+	-webkit-transform:rotateY(0deg);
+	-moz-transform:rotateY(0deg);
+	-ms-transform:rotateY(0deg);
+	transform:rotateY(0deg);
 }
 .product-bottom{
 	width:100%;
@@ -818,7 +818,6 @@ body{
 	float:left;
 	height:auto;
 	background:#363636;
-	
 }
 .footer-top{
 	width:100%;
@@ -837,6 +836,8 @@ body{
 	content:'';
 	left:0;
 	bottom:0;
+	background:url(https://github.com/alexyaoyang/ebay-resources/raw/master/images/footer.png) no-repeat left center;
+	background-size: cover;
 }
 .footer .container{
 	position:relative;
