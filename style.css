@@ -736,10 +736,10 @@ body{
 	transform:scale(1.15);
 }
 .featured-block ul li:hover .product-thumb img{
-	-webkit-transform:rotateY(180deg);
-	-moz-transform:rotateY(180deg);
-	-ms-transform:rotateY(180deg);
-	transform:rotateY(180deg);
+	-webkit-transform:rotateY(360deg);
+	-moz-transform:rotateY(360deg);
+	-ms-transform:rotateY(360deg);
+	transform:rotateY(360deg);
 }
 .product-bottom{
 	width:100%;
