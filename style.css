@@ -37,7 +37,7 @@ body{
 	/*font-family: 'Gloria Hallelujah', cursive;*/
 	font-size:14px;
 	line-height:24px;
-	color:#888;
+	color:#000000;
 }
 .header{
 	width:100%;
@@ -619,7 +619,7 @@ body{
 	font-size:18px;
 	line-height:24px;
 	margin:0 0 25px;
-	color:#aeaeae;
+	color:#000000;
 	font-weight:400;
 }
 .video-block{
